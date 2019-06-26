@@ -1,0 +1,8 @@
+body {
+  margin: 0 auto;
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  height: 100%;
+  font-size: 20px;
+  background-color: red; }
