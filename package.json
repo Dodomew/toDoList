@@ -1,0 +1,25 @@
+{
+  "name": "portfolio01",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dodomew/portfolio01.git"
+  },
+  "author": "Doortje Spanjerberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dodomew/portfolio01/issues"
+  },
+  "homepage": "https://github.com/Dodomew/portfolio01#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
